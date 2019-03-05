@@ -1,0 +1,30 @@
+
+.App-header {
+  margin-top: 20px;
+}
+
+.App-header h1{
+  text-align: center;
+}
+
+#contact{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+#contact td, #contact th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#contact tr{
+  background-color: #f2f2f2;
+}
+
+#contact tr:hover {background-color: #c1c1c1;}
+
+#contact th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
