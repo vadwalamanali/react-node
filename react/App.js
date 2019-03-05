@@ -43,7 +43,6 @@ class App extends Component {
       <div className="App-header">
         <h1>Contact List</h1>
         <table id="contact">
-
           <tbody>
           <tr>
             <th>ContactId</th>
@@ -67,7 +66,7 @@ class App extends Component {
   }
 
   return (
-      <div className="">
+      <div>
         Loading
       </div>
     );
